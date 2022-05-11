@@ -1,0 +1,29 @@
+[
+    {
+        "model": "rater_project_api.images",
+        "pk": 1,
+        "fields": {
+            "url": "https://ih1.redbubble.net/image.784795410.6824/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+            "player": 1,
+            "game": 2
+        }
+    },
+    {
+        "model": "rater_project_api.images",
+        "pk": 2,
+        "fields": {
+            "url": "https://ih1.redbubble.net/image.987574267.6443/st,small,507x507-pad,600x600,f8f8f8.jpg",
+            "player": 1,
+            "game": 3
+        }
+    },
+    {
+        "model": "rater_project_api.images",
+        "pk": 3,
+        "fields": {
+            "url": "https://www.meme-arsenal.com/memes/2fa6c4d21b937644f6ca911bf1e5d82a.jpg",
+            "player": 1,
+            "game": 1
+        }
+    }
+]

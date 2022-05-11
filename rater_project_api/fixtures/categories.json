@@ -1,0 +1,23 @@
+[
+    {
+        "model": "rater_project_api.categories",
+        "pk": 1,
+        "fields": {
+            "label": "FPS"
+        }
+    },
+    {
+        "model": "rater_project_api.categories",
+        "pk": 2,
+        "fields": {
+            "label": "RPG"
+        }
+    },
+    {
+        "model": "rater_project_api.categories",
+        "pk": 3,
+        "fields": {
+            "label": "Puzzle"
+        }
+    }
+]

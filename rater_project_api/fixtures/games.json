@@ -1,0 +1,44 @@
+[
+    {
+        "model": "rater_project_api.games",
+        "pk": 1,
+        "fields": {
+            "title": "Sailing The Seas of Cheese",
+            "description": "This is a game",
+            "designer": "Primus",
+            "year_released": 10,
+            "number_of_players": 39,
+            "estimated_time_to_play": 4,
+            "age_recommendation": "18+",
+            "player": 1
+        }
+    },
+    {
+        "model": "rater_project_api.games",
+        "pk": 2,
+        "fields": {
+            "title": "Bored Game",
+            "description": "A game about orange juice",
+            "designer": "Tropicana",
+            "year_released": 2020,
+            "number_of_players": 9,
+            "estimated_time_to_play": 100,
+            "age_recommendation": "16+",
+            "player": 1
+        }
+    },
+    {
+        "model": "rater_project_api.games",
+        "pk": 3,
+        "fields": {
+            "title": "Portal 2",
+            "description": "Portal game",
+            "designer": "Valve",
+            "year_released": 2015,
+            "number_of_players": 2,
+            "estimated_time_to_play": 30,
+            "age_recommendation": "10+",
+            "player": 1
+        }
+    }
+]
